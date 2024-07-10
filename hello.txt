@@ -1,0 +1,1 @@
+This is me reading files from hello.txt file using javascript codes
